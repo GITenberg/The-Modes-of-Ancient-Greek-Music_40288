@@ -1,0 +1,28 @@
+_repo: The-Modes-of-Ancient-Greek-Music_40288
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40288-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Monro, D. B. (David Binning)
+    alias: Monro, David Binning
+    birthdate: 1836
+    deathdate: 1905
+    gutenberg_agent_id: '40528'
+    url: http://www.gutenberg.org/2009/agents/40528
+description: ''
+gutenberg_issued: '2012-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40288'
+  lccn: '01002701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music, Greek and Roman'
+title: The Modes of Ancient Greek Music
+url: http://www.gutenberg.org/ebooks/40288
