@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40528'
     url: http://www.gutenberg.org/2009/agents/40528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40288#The-Modes-of-Ancient-Greek-Music
 gutenberg_issued: '2012-07-20'
 gutenberg_type: Text
 identifiers:
